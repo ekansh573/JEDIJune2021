@@ -14,3 +14,7 @@ int main()
 void greeting (char string[]) {
 	printf("Hey, Where was you?.. %s", name);
 }
+
+void greeting(char name[]) {
+printf("Hey, Where was you");
+} 
